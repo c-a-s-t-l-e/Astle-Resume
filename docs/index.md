@@ -76,7 +76,7 @@ __University of Idaho__, Undergraduate Researcher
 ## Volunteer Experience
 
 `2021-2023`
-__Service Missionary__, Boston, MA
+__Service Volunteer__, Boston, MA
 
 - Self-taught the Spanish language and was able to fluently converse with a wide variety of native Spanish speakers in New England
 
