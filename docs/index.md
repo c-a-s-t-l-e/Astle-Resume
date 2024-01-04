@@ -22,6 +22,10 @@ __Math Major__
 `August 2019 - December 2020`
 University of Idaho, Moscow, ID
 
+**Awards:**
+
+- Dean's List
+
 __Associates of Liberal Arts__
 `Janurary 2017 - May 2019`
 College of Southern Idaho, Twin Falls, ID
@@ -30,10 +34,31 @@ College of Southern Idaho, Twin Falls, ID
 
 - Summa Cum Laude
 
-## Work Experience
+## Experience
+
+### Work
+
+`September 2023 – Current`
+__Data Science Lab Tutor__, Brigham Young University – Idaho
+
+- Explained concepts to students taking data science courses
+  
+- Read and critiqued numerous R and Python scripts written by other students
+  
+- Helped students with presenting data science reports in a organized digital format
+
+`September 2023 – December 2023`
+__Metadata Intern__, NASA Goddard Space Flight Center
+
+- Explored the use cases of natural language processing and large language models for
+processing and analyzing academic journal abstracts
+
+- Collaborated with team members in virtual weekly meetings to improve technical tools
+  
+- Cleaned and wrangled large datasets
 
 `April 2023 - June 2023`
-__Research and Business Development Center__, Language Data Annotator
+__Language Data Annotator__, Research and Business Development Center
 
 - Managed large datasets and private data in a discrete and organized manner
   
@@ -46,13 +71,17 @@ __Research and Business Development Center__, Language Data Annotator
 - Wrote numerous scripts
 
 `May 2020 - August 2020`
-__University of Idaho__, Undergraduate Researcher
+__Undergraduate Researcher__, University of Idaho
 
 - Gave weekly reports on technical concepts involving data management, mathematics, and computing.
 
 - Contributed to the development of a streamlined machine learning system for processing X-ray images.
 
-## Volunteer Experience
+### Data Science Society Projects
+
+### Personal Projects
+
+## Volunteering
 
 `2021-2023`
 __Service Volunteer__, Boston, MA
