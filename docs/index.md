@@ -14,38 +14,17 @@ title: W. Abram Astle's Resume
 
 ## Education
 
+__Data Science Major__
 `Expected 2025`
-__Brigham Young University - Idaho__, Rexburg, ID
+Brigham Young University - Idaho, Rexburg, ID
 
-- Major: Data Science
-
-**Relevant Courses:**
-
-- Data Wrangling and Visualization
-  
-- Data Science Programming
-  
-- Intermediate Statistics
-  
-- Introduction to Databases
-
+__Math Major__
 `August 2019 - December 2020`
-__University of Idaho__, Moscow, ID
+University of Idaho, Moscow, ID
 
-- Major: Mathematics
-  
-**Relevant Courses:**
-
-- Designing Data Structures
-
-- Big Data Management
-
-- Business Statistics
-
+__Associates of Liberal Arts__
 `Janurary 2017 - May 2019`
-__College of Southern Idaho__, Twin Falls, ID
-
-- Major: Associates of Liberal Arts
+College of Southern Idaho, Twin Falls, ID
 
 **Awards:**
 
