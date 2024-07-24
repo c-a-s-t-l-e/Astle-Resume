@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: W. Abram Astle's Resume
 ---
 # W. Abram Astle
