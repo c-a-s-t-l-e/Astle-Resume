@@ -3,92 +3,42 @@ layout: cv
 title: W. Abram Astle's Resume
 ---
 # W. Abram Astle
+## Contact Information
+| Phone | Email | Github |
+|----------|---------|-------|
+| 208-701-8585 | w.a.astle@proton.me | https://github.com/c-a-s-t-l-e/ |
 
-<div id="webaddress">
-| <a href="https://www.linkedin.com/in/abram-astle-3194a2279/">LinkedIn</a>
-| <a href="https://github.com/c-a-s-t-l-e">GitHub</a>
-</div>
-
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+---
 
 ## Education
+| Degree | Institution | Graduation Date |
+|--------|-------------|-----------------|
+| B.Sc. Data Science | Brigham Young University - Idaho | December 2024 |
+| A.S. General Studies | University of Idaho | December 2020 |
+| A.A. LIberal Arts | College of Southern Idaho | May 2019 |
 
-__Data Science Major__
-`Expected 2025`
-Brigham Young University - Idaho, Rexburg, ID
+---
 
-__Math Major__
-`August 2019 - December 2020`
-University of Idaho, Moscow, ID
+## Work Experience
+| Position | Company / Organization | Dates | Most Notable Accomplishment |
+|----------|---------|-------|-----------------|
+| VP of Projects, Project Manager, Team Member | BYU-Idaho Data Science Society | April 2023 - Current | Collaborated on the development of a web app that resulted in a budget increase from $18,000 to $240,000 for the City of Rexburg Fire Department |
+| Data Science Lab Tutor| BYU-Idaho | September 2023 - Current | Have assisted dozens of students in solving data science problems|
+| Data Science Consultant | Aspire365 | April 2024 - July 2024 | Created an interactive map to visualize patient data using Shiny and R |
+| Metadata Intern | NASA | September 2023 - December 2023 | Developed an automation system using natural language processing to analyze and extract thousands of named entities from academic journal abstracts |
+| Language Data Annotator | Research and Business Development Center | April 2023 - June 2023 | Processed hundreds of thousands of entries of private shipping data using a taxonomical system and multiple Python and Bash scripts |
+| Undergraduate Research Assistant | University of Idaho | May 2020 - August 2020 | Wrote Python code that contributed to a faster method of processing X-ray images for machine learning purposes  |
 
-**Awards:**
+---
+## Compentencies
+| Language | Concept | Technology |
+|--------|-------------|-----------------|
+| Spanish (Conversational) | Traditional Machine Learning | MySQL Server |
+| Python | Deep Learning | Google Cloud Platform |
+| R | Data Wrangling and Visualization | Docker |
+| SQL | Web App Development | Git |
+| Bash | Natural Language Processing | ArcGIS |
 
-- Dean's List
-
-__Associates of Liberal Arts__
-`Janurary 2017 - May 2019`
-College of Southern Idaho, Twin Falls, ID
-
-**Awards:**
-
-- Summa Cum Laude
-
-## Experience
-
-### Work
-
-`September 2023 – Current`
-__Data Science Lab Tutor__, Brigham Young University – Idaho
-
-- Explained concepts to students taking data science courses
-  
-- Read and critiqued numerous R and Python scripts written by other students
-  
-- Helped students with presenting data science reports in a organized digital format
-
-`September 2023 – December 2023`
-__Metadata Intern__, NASA Goddard Space Flight Center
-
-- Explored the use cases of natural language processing and large language models for
-processing and analyzing academic journal abstracts
-
-- Collaborated with team members in virtual weekly meetings to improve technical tools
-  
-- Cleaned and wrangled large datasets
-
-`April 2023 - June 2023`
-__Language Data Annotator__, Research and Business Development Center
-
-- Managed large datasets and private data in a discrete and organized manner
-  
-- Virtually worked with a team to create best practices and manage a workflow
-
-- Attended virtual meetings to share progress, issues, and learn about updates to the project
-  
-- Managed and improved fine and broad labeling systems
-
-- Wrote numerous scripts
-
-`May 2020 - August 2020`
-__Undergraduate Researcher__, University of Idaho
-
-- Gave weekly reports on technical concepts involving data management, mathematics, and computing.
-
-- Contributed to the development of a streamlined machine learning system for processing X-ray images.
-
-### Data Science Society Projects
-
-### Personal Projects
-
-## Volunteering
-
-`2021-2023`
-__Service Volunteer__, Boston, MA
-
-- Self-taught the Spanish language and was able to fluently converse with a wide variety of native Spanish speakers in New England
-
-- Conducted individual and group trainings for volunteers
 
 <!-- ### Footer
 
